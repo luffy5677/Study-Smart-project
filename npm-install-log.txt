@@ -1,0 +1,5 @@
+npm error code UNABLE_TO_VERIFY_LEAF_SIGNATURE
+npm error errno UNABLE_TO_VERIFY_LEAF_SIGNATURE
+npm error request to https://registry.npmjs.org/@hookform%2fresolvers failed, reason: unable to verify the first certificate
+npm error A complete log of this run can be found in: C:\Users\Uday_kumar\AppData\Local\npm-cache\_logs\2026-05-15T15_27_50_437Z-debug-0.log
+DONE 

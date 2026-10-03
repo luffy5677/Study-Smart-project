@@ -1,0 +1,28 @@
+/target/
+/.idea/
+/.vscode/
+*.iml
+
+# Node / Vite
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.*
+
+# Python
+ai-service/.venv/
+ai-service/__pycache__/
+**/__pycache__/
+*.pyc
+
+# Local env
+.env
+.run/
+uploads/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Optional portable Maven unzip (legacy helper)
+backend/tools/
